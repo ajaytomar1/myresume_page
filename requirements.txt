@@ -1,13 +1,13 @@
 asgiref==3.5.2
 boto3==1.26.15
-botocore==1.29.15
+botocore
 Django==4.0.4
 django-filter==22.1
 django-heroku==0.3.1
 django-storages==1.13.1
 
 gunicorn==20.1.0
-heroku==0.1.4
+heroku
 Pillow==9.0.1
 platformdirs==2.5.1
 ply==3.11
