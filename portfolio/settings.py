@@ -25,7 +25,7 @@ SECRET_KEY = '@=xsbdeliif#lr_u&=abo%w(9vxcngz+5=42g9q^v9lbsc4jb#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ajay-portfolio1.herokuapp.com/', '127.0.0.1' ]
+ALLOWED_HOSTS = ['ajay-portfolio1.herokuapp.com' ]
 
 
 # Application definition
